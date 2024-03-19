@@ -70,7 +70,7 @@ body {
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 
 .rodape{
@@ -83,3 +83,15 @@ body {
     padding: 12px 0;
    
 }
+
+.estudante-imagem1{
+width: 85%;
+}
+
+.estudante-imagem{
+    width: 80%;
+    }
+
+.estudante-imagem2{
+    width: 100%;
+    }
